@@ -61,3 +61,10 @@ Want to contribute to the Particle tracker edge firmware project? Follow [this l
 Having problems or have awesome suggestions? Connect with us [here.](https://community.particle.io/c/tracking-system).
 
 Enterprise customers can contact [support](https://support.particle.io/).
+
+
+### GET LOCATION ON DEMAND --- FOR TESTING
+
+1. Go to console.particle.io and find the tracker product.
+2. Open the tracker you want to get the location data for and select "View Device Page".
+3. Enter {"cmd":"get_loc"} into the function input and press the "CALL" button.
